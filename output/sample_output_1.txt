@@ -1,0 +1,27 @@
+Simulation Begins
+Processing an arrival event at time:    2
+Processing an arrival event at time:    4
+Processing a departure event at time:   5
+Processing an arrival event at time:    6
+Processing an arrival event at time:    8
+Processing a departure event at time:   9
+Processing an arrival event at time:   10
+Processing an arrival event at time:   10
+Processing an arrival event at time:   12
+Processing an arrival event at time:   14
+Processing a departure event at time:  14
+Processing an arrival event at time:   16
+Processing a departure event at time:  16
+Processing a departure event at time:  17
+Processing an arrival event at time:   18
+Processing a departure event at time:  21
+Processing a departure event at time:  22
+Processing a departure event at time:  25
+Processing a departure event at time:  27
+Processing a departure event at time:  28
+Simulation Ends
+
+Final Statistics:
+
+    Total number of people processed: 10
+    Average amount of time spent waiting: 5.8
